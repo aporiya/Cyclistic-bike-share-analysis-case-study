@@ -44,7 +44,3 @@ To address the findings, several recommendations were made, including:
 
 ## Conclusion
 The Cyclistic Bike-Share Analysis Case Study provides valuable insights into user behavior and usage patterns. By understanding the differences between casual riders and annual members, Cyclistic can tailor its marketing strategies to attract and retain customers effectively.
-
-For a detailed analysis, refer to the [complete report](link_to_full_report) and the [GitHub repository](link_to_repository) containing the code and datasets.
-
-<img src='images/logo.jpg' width='100'>
