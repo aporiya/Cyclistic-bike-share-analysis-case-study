@@ -1,4 +1,5 @@
-# Cyclistic Bike-Share Analysis Case Study
+# Cyclistic Bike-Share Analysis Case Study 
+<img src='images/logo.jpg'  width='250'>
 
 ## Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this project, we will analyze the historical trip data of Cyclistic, a bike-share company in Chicago. The goal is to understand how casual riders and annual members use Cyclistic bikes differently and provide insights for designing a new marketing strategy.
@@ -46,4 +47,4 @@ The Cyclistic Bike-Share Analysis Case Study provides valuable insights into use
 
 For a detailed analysis, refer to the [complete report](link_to_full_report) and the [GitHub repository](link_to_repository) containing the code and datasets.
 
-![Cyclistic Logo](cyclistic_logo.png)
+<img src='images/logo.jpg' width='100'>
